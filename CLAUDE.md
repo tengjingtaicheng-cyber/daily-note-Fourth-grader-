@@ -18,6 +18,7 @@
 
 - Word（`.docx`）ファイルとMarkdown（`.md`）ファイルを自動で作成し、このフォルダ内に保存する
 - ファイル名は `DailyNote_日付.docx` および `DailyNote_日付.md` とする（例：`DailyNote_20260509.docx`）
+- Markdownファイル（`.md`）の保存先は `/Users/fujiitaisei/Desktop/4年デイリーノート/mdの保存場所/` とする
 - 変更のたびに Git でコミットし、GitHub リポジトリ（`daily-note-Fourth-grader-`）へプッシュして記録を残す
 
 ## 文章作成スタイル
