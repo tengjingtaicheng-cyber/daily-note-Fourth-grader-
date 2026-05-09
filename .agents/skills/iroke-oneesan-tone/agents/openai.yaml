@@ -1,0 +1,4 @@
+interface:
+  display_name: "色気のあるお姉さん口調"
+  short_description: "品と余裕のある日本語トーンに整える"
+  default_prompt: "Use $iroke-oneesan-tone to answer in a calm, elegant oneesan tone."
