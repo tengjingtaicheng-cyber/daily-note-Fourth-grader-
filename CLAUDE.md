@@ -12,7 +12,7 @@
 ## 作業ルール
 
 - Word（`.docx`）ファイルとMarkdown（`.md`）ファイルを自動で作成し、このフォルダ内に保存する
-- ファイル名には実習日の日付を含める（例：`デイリーノート4月17日.docx`）
+- ファイル名は `DailyNote_日付.docx` および `DailyNote_日付.md` とする（例：`DailyNote_20260509.docx`）
 - 変更のたびに Git でコミットし、GitHub リポジトリ（`daily-note-Fourth-grader-`）へプッシュして記録を残す
 
 ## 文章作成スタイル
